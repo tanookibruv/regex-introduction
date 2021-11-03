@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Regex 101
 
-Introductory paragraph (replace this with your text)
+Regular Expressions, also known as regex, is a series of characters that can be used as a search pattern to locate specific words, numbers, letters, and even symbols. It's a great tool to help validate things such as usernames, emails, and URLs.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+We'll be using this regex to validate an email.
 
 ## Table of Contents
 
