@@ -4,7 +4,8 @@ Regular Expressions, also known as regex, is a series of characters that can be 
 
 ## Summary
 
-We'll be using this regex to validate an email.
+We'll be using this regex to validate an email:
+``/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/``
 
 ## Table of Contents
 
